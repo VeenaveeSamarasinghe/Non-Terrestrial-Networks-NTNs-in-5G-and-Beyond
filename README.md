@@ -26,11 +26,3 @@ The article also discusses NTN applications in IoT, emergency response, maritime
 1. IEEE Xplore: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9861699  
 2. F. Rinaldi et al., “Non-Terrestrial Networks in 5G & Beyond: A Survey,” IEEE Access, 2020  
 3. Rohde & Schwarz – NTN overview: https://www.rohde-schwarz.com/us/solutions/test-and-measurement/wireless-communication/cellular-standards/5g-test-and-measurement/non-terrestrial-networks-ntn/
-
-## 📥 Usage
-
-This article may be used for:
-- IEEE student branch publications  
-- Educational content on NTN and 5G  
-- Research insights into future telecom technologies  
-- Technical seminars, workshops, and awareness campaigns
