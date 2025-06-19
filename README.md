@@ -1,0 +1,1 @@
+# Non-Terrestrial-Networks-NTNs-in-5G-and-Beyond
