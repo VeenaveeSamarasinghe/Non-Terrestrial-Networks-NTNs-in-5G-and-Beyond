@@ -2,7 +2,7 @@
 
 **Author:** D. N. Veenavee Samarasinghe  
 **Affiliation:** General Sir John Kotelawala Defence University  
-**Published by:** IEEE ComSoc – KDU Chapter  
+**Published by:** KDU Transmission by IEEE ComSoc  
 **Date:** February 18, 2024  
 
 📖 **Read the article:** [Revolutionizing Global Connectivity](https://kduieeecomsoc.blogspot.com/2024/02/revolutionizing-global-connectivity.html)
